@@ -73,10 +73,15 @@ Form filling
 Rating from 1 – 5
 Show overall ratings pie chart
 Past user comments history
+
 Requirements 😅
 
 Have these things installed to make your process smooth
+
 Python (3.9.12) https://www.python.org/downloads/release/python-3912/
+
 MySQL https://www.mysql.com/downloads/
+
 Visual Studio Code (Prefered Code Editor) https://code.visualstudio.com/Download
+
 Visual Studio build tools for C++ https://aka.ms/vs/17/release/vs_BuildTools.exe
