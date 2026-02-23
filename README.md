@@ -1,6 +1,7 @@
 A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
 
 Scope 😲
+
 i. It can be used for getting all the resume data into a structured tabular format and csv as well, so that the organization can use those data for analytics purposes
 
 ii. By providing recommendations, predictions and overall score user can improve their resume and can keep on testing it on our tool
@@ -73,6 +74,7 @@ Rating from 1 – 5
 Show overall ratings pie chart
 Past user comments history
 Requirements 😅
+
 Have these things installed to make your process smooth
 Python (3.9.12) https://www.python.org/downloads/release/python-3912/
 MySQL https://www.mysql.com/downloads/
